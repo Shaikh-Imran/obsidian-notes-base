@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "f670c33f0007d219",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa4107643602d865",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4be9a08f6d4e039c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff44c3169d9ba44c",
+        "type": "tabs",
+        "dimension": 26.153846153846153,
+        "children": [
+          {
+            "id": "b914edd1b9a725c6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5eda3dddb13f2a5f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7e2e85cf7f5a5a03",
+        "type": "tabs",
+        "dimension": 73.84615384615384,
+        "children": [
+          {
+            "id": "71bfafcd137e1a6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "20bd9f251ee68e39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a46b3cef8a3774bb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b2ddf275ec5f7fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.01218795776367
+  },
+  "right": {
+    "id": "78354397dcb0a39c",
+    "type": "split",
+    "children": [
+      {
+        "id": "af3c4635dedf90f1",
+        "type": "tabs",
+        "dimension": 45.00648508430609,
+        "children": [
+          {
+            "id": "d5866a6b571a13e8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5ea952bb79fd9cd8",
+        "type": "tabs",
+        "dimension": 26.84824902723735,
+        "children": [
+          {
+            "id": "acb36f58f3912af7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5229814136dcd3c7",
+        "type": "tabs",
+        "dimension": 28.145265888456553,
+        "children": [
+          {
+            "id": "148f800e6cc6e74a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9a4d19b7c97a846",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "6ba94fd14f1a0cdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348
+  },
+  "active": "71bfafcd137e1a6d",
+  "lastOpenFiles": [
+    "🏡Home.md",
+    "todo-daily/2022-08-12.md",
+    "README.md",
+    "Untitled.md",
+    "todo-daily/todo-daily-template.md",
+    "attachments/Gitlab-best-practice.jpg",
+    "todo-daily/daily-notes.md",
+    "attachments/FOB-example-usage-upload.png",
+    "other/😎 Work Done.md",
+    "todo-daily/😎 Work Done.md"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "folder": "todo-daily",
+  "format": "yyyy-MM-DD",
+  "autorun": true,
+  "template": "todo-daily/todo-daily-template"
+}

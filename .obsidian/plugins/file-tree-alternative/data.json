@@ -1,0 +1,23 @@
+{
+  "ribbonIcon": true,
+  "showRootFolder": true,
+  "showFilesFromSubFolders": true,
+  "searchFunction": true,
+  "allSearchOnlyInFocusedFolder": false,
+  "showFilesFromSubFoldersButton": true,
+  "revealActiveFileButton": true,
+  "excludedExtensions": "",
+  "folderIcon": "icomoon",
+  "folderCount": true,
+  "folderCountOption": "files",
+  "evernoteView": false,
+  "filePreviewOnHover": false,
+  "iconBeforeFileName": true,
+  "sortFilesBy": "name",
+  "sortFoldersBy": "item-number",
+  "fixedHeaderInFileList": false,
+  "createdYaml": false,
+  "fileNameIsHeader": false,
+  "folderNote": false,
+  "deleteFileOption": "trash"
+}
